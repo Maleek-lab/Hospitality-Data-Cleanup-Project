@@ -1,0 +1,7 @@
+Booking_ID,Guest_Name,CheckIn_Date,Room_Type,Rate_Paid,Status,First_Name,Last_Name,CheckIn_Day,Revenue_Tier
+101,Melvin Sutton,2026-05-12,KING,250,Confirmed,Melvin,Sutton,Tuesday,Standard
+102,Sarah Jones,2026-05-12,KING,250,Confirmed,Sarah,Jones,Tuesday,Standard
+104,Alice Nwosu,2026-05-13,Deluxe Suite,320.5,Cancelled,Alice,Nwosu,Wednesday,Premium
+105,Bob Dylan,2026-05-14,KING,0,Stayed,Bob,Dylan,Thursday,Standard
+106,Chidi Okafor,2026-05-15,DELUXE,320.5,Confirmed,Chidi,Okafor,Friday,Premium
+107,Alice Nwosu,2026-05-13,Suite,320.5,Cancelled,Alice,Nwosu,Wednesday,Premium
